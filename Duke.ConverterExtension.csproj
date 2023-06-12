@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Save value converter</Title>
+    <Authors>Duke</Authors>
+    <Company>DukeTeam</Company>
+  </PropertyGroup>
+
+</Project>
